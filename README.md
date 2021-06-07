@@ -1,7 +1,8 @@
 ### Hi there,I am Noel Varghese 👋
 
 
-I am undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an Ethical Hacking enthusiast and enjoy playing CTF's.Iespecially love CTF's that teach me new ways of enumeration and analysis.Additionally,I am a blogger on Medium,with article subjects centring around cyber security domains like network security and vulnerabilities.
+I am undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an Ethical Hacking enthusiast and enjoy playing CTF's.
+I especially love CTF's that teach me new ways of enumeration and analysis.Additionally,I am a blogger on Medium,with article subjects centring around cyber security domains like network security and vulnerabilities.
 
 🔭 My Skills
 
