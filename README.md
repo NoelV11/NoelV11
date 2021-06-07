@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there,I am Noel Varghese 👋
 
-<!--
-**NoelV11/NoelV11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an Ethical Hacking enthusiast and enjoy playing CTF's.Iespecially love CTF's that teach me new ways of enumeration and analysis.Additionally,I am a blogger on Medium,with article subjects centring around cyber security domains like network security and vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 My Skills
+Ethical Hacking
+Web development with html, css, java and bootstrap
+Blogging and Content Writing
+🌱 Experience
+Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
+Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security'
+Currently working as a Technical Blogger at keycybr
+
+🤔 Get in touch
+I am always open to meeting new people and opportunities
+
+💬 Email- noelatvitb@gmail.com
+📫 Fancy having a look at my Technical blog,view them here-https://medium.com/@noelatvitb
+😄 Connect with me on Linkedin-www.linkedin.com/in/noel--varghese
+👯 Thank you for viewing my GitHub Profile!
