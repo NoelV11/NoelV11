@@ -8,7 +8,7 @@ I especially love CTF's that teach me new ways of enumeration and analysis.Addit
 
 Ethical Hacking
 
-Web development with Bootstrap,CSS,html,JavaScript and JQuery
+Web development with Bootstrap,CSS,HTML,JavaScript and JQuery
 
 Blogging and Content Writing
 
