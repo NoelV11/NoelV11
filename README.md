@@ -13,6 +13,7 @@ Web development with Bootstrap,CSS,HTML,JavaScript and JQuery
 Blogging and Content Writing
 
 🌱 Experience
+
 Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
 
 Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security'
