@@ -16,7 +16,7 @@ Blogging and Content Writing
 
 Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
 
-Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security'
+Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security')
 
 Currently working as a Technical Blogger at keycybr
 
