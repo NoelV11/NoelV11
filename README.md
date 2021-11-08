@@ -7,9 +7,7 @@ I especially love CTF's that teach me new ways of enumeration and analysis.Addit
 🔭 My Skills
 
 Ethical Hacking
-
-Web development with Bootstrap,CSS,HTML,JavaScript and JQuery
-
+Threat Intelligence and OSINT
 Blogging and Content Writing
 
 🌱 Experience
@@ -18,7 +16,7 @@ Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
 
 Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security')
 
-Currently working as a Technical Blogger at keycybr
+Currently working as a Threat intelligence Intern at NTRDC-Crime Free Bharat
 
 🤔 Get in touch
 
@@ -28,6 +26,6 @@ I am always open to meeting new people and opportunities
 
 📫 Fancy having a look at my Technical blog,view them here-https://medium.com/@noelatvitb
 
-😄 Connect with me on Linkedin-www.linkedin.com/in/noel--varghese
+😄 Connect with me on Linkedin-www.linkedin.com/in/nol--varghese
 
 👯 Thank you for viewing my GitHub Profile!
