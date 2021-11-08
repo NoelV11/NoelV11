@@ -7,7 +7,9 @@ I especially love CTF's that teach me new ways of enumeration and analysis.Addit
 🔭 My Skills
 
 Ethical Hacking
+
 Threat Intelligence and OSINT
+
 Blogging and Content Writing
 
 🌱 Experience
