@@ -33,7 +33,7 @@ I am always open to meeting new people and opportunities
 
 💬 Email- noelatvitb@gmail.com
 
-📫 Fancy having a look at my Technical blog,view them here-https://medium.com/@noelatvitb
+📫 Fancy having a look at my Technical blog,? view them here-https://medium.com/@noelatvitb
 
 😄 Connect with me on Linkedin-www.linkedin.com/in/nol--varghese
 
