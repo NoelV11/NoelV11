@@ -4,6 +4,13 @@
 I am undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an Ethical Hacking enthusiast and enjoy playing CTF's.
 I especially love CTF's that teach me new ways of enumeration and analysis.Additionally,I am a blogger on Medium,with article subjects centring around cyber security domains like network security and vulnerabilities.
 
+Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
+
+
+Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
+
+
+
 🔭 My Skills
 
 Ethical Hacking
