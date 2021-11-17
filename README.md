@@ -11,7 +11,7 @@ Cyber Security interests me as an individual, being the subject I am majoring in
 
 
 
-🔭 My Skills
+### 🔭 My Skills
 
 Ethical Hacking
 
@@ -19,7 +19,7 @@ Threat Intelligence and OSINT
 
 Blogging and Content Writing
 
-🌱 Experience
+### 🌱 Experience
 
 Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
 
@@ -27,7 +27,7 @@ Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual concla
 
 Currently working as a Threat intelligence Intern at NTRDC-Crime Free Bharat
 
-🤔 Get in touch
+### 🤔 Get in touch
 
 I am always open to meeting new people and opportunities
 
