@@ -35,8 +35,8 @@ I am always open to meeting new people and opportunities
 
 📫 Fancy having a look at my Technical blog,? view them here-https://medium.com/@noelatvitb
 
-😄 Connect with me on Linkedin-www.linkedin.com/in/nol--varghese
+😄 Connect with me on Linkedin-https://www.linkedin.com/in/noel--varghese/
 
 👯 Thank you for viewing my GitHub Profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelV11&count_private=true&theme=great-gatsby@show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelV11&count_private=true&theme=great-gatsby&show_icons=true)
