@@ -9,7 +9,7 @@ Retaining an interest in Secure Coding, I have participated in University level 
 
 Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
 
-
+![](https://komarev.com/ghpvc/?username=NoelV11)
 
 ### 🔭 My Skills
 
