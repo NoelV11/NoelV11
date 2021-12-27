@@ -25,7 +25,7 @@ Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
 
 Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security')
 
-Currently working as a Threat intelligence Intern at NTRDC-Crime Free Bharat
+Worked as Threat intelligence Intern at NTRDC-Crime Free Bharat
 
 ### 🤔 Get in touch
 
