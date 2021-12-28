@@ -1,4 +1,5 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
 ### Hi there,I am Noel Varghese 👋
