@@ -3,7 +3,7 @@ My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noel
 ### Hi there,I am Noel Varghese 👋
 
 
-I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having e having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence.
+I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
 Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
