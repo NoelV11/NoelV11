@@ -40,3 +40,6 @@ I am always open to meeting new people and opportunities
 👯 Thank you for viewing my GitHub Profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelV11&count_private=true&theme=great-gatsby&show_icons=true)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@noelatvitb/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
