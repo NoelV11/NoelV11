@@ -41,7 +41,7 @@ Interned at NTRDC,Crime Free Bharat,under the Threat Intelligence domain
 
 Interned at Haryana Crime Cell,under the Cyber Security domain
  
-Core Team Member,R&D (Research and Development) of club at VIT, Bhopal
+Core Team Member,R&D (Research and Development) of club at VITB Cyber Warriors Club, VIT Bhopal
 
 ### 🤔 Get in touch
 
