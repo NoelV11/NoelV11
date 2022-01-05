@@ -15,38 +15,43 @@ Retaining an interest in Secure Coding, I have participated in University level 
 
 Contributed to Darkwebathon,hosted by the Anti-Human Trafficking Intelligence Initiative (@TeamATII).During this event,we the help of a 200+ search party scoured the Dark Web,pulled information from tools like Project Hades and Maltego,to identify individuals who operate in gambling,child porn and CSAM rings
 
-We did so by reverse searching SSH Keys,Email and Bitcoin addresses of these individuals, present on the Dark Web.We are proud of what we did,helping Law Enforcement to book these criminals to jail.
 
 Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
 
+
+I am a champion for incorporating women into the field of Cyber Security,owing to remove the gate barriers that they face,which has led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter.I try to contribute,to the best of my ability,for the good of this organization
+
+Empowering them,by sharing nuggets of knowlege and providing them opportunities to forster their growth gives me immense joy
 
 ![](https://komarev.com/ghpvc/?username=NoelV11)
 
 ### 🔭 My Skills
 
-Ethical Hacking
+Worked with tools used in SOC Analyst environments - like WireShark,Yara and Virus Total
 
-Threat Intelligence and OSINT
+Threat Intelligence
+
+OSINT
 
 Blogging and Content Writing
 
 ### 🌱 Experience
 
-Core Team Member,R&D (Research and Development) of  club at VIT, Bhopal
+Interned at NTRDC,Crime Free Bharat,under the Threat Intelligence domain
 
-Content Writing team member for CyVIT 2021 (VIT Bhopal's signature annual conclave for all things 'Cyber Security')
-
-Worked as Threat intelligence Intern at NTRDC-Crime Free Bharat
+Interned at Haryana Crime Cell,under the Cyber Security domain
+ 
+Core Team Member,R&D (Research and Development) of club at VIT, Bhopal
 
 ### 🤔 Get in touch
 
 I am always open to meeting new people and opportunities
 
+😄 Connect with me on Linkedin-https://www.linkedin.com/in/noel--varghese/
+
 💬 Email- noelatvitb@gmail.com
 
 📫 Fancy having a look at my Technical blog,? view them here-https://medium.com/@noelatvitb
-
-😄 Connect with me on Linkedin-https://www.linkedin.com/in/noel--varghese/
 
 👯 Thank you for viewing my GitHub Profile!
 
