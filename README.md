@@ -26,7 +26,7 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 
 ### 🔭 My Skills
 
-Worked with tools used in SOC Analyst environments - like WireShark,Yara and Virus Total
+- Worked with tools used in SOC Analyst environments - like WireShark,Yara, Virus Total and Sandboxes
 
 - Threat Intelligence
 
