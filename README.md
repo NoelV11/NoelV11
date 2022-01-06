@@ -28,19 +28,19 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 
 Worked with tools used in SOC Analyst environments - like WireShark,Yara and Virus Total
 
-Threat Intelligence
+- Threat Intelligence
 
-OSINT
+- OSINT
 
-Blogging and Content Writing
+- Blogging and Content Writing
 
 ### 🌱 Experience
 
-Interned at NTRDC,Crime Free Bharat,under the Threat Intelligence domain
+- Interned at NTRDC,Crime Free Bharat,under the Threat Intelligence domain
 
-Interned at Haryana Crime Cell,under the Cyber Security domain
+- Interned at Haryana Crime Cell,under the Cyber Security domain
  
-Core Team Member,R&D (Research and Development) of club at VITB Cyber Warriors Club, VIT Bhopal
+- Core Team Member,R&D (Research and Development) of club at VITB Cyber Warriors Club, VIT Bhopal
 
 ### 🤔 Get in touch
 
