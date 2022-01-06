@@ -16,10 +16,9 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 🕵 Contributed to Darkwebathon,hosted by the Anti-Human Trafficking Intelligence Initiative (@TeamATII).During this event,we the help of a 200+ search party scoured the Dark Web,pulled information from tools like Project Hades and Maltego,to identify individuals who operate in gambling,child porn and CSAM rings
 
 
-Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
+👱 Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
 
-
-I am a champion for incorporating women into the field of Cyber Security,owing to remove the gate barriers that they face,which has led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter.I try to contribute,to the best of my ability,for the good of this organization
+:sparkler: I am an advocate for incorporating women into the field of Cyber Security,owing to remove the gate barriers that they face.This led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter.I try to contribute,to the best of my ability,for the good of this organization
 
 Empowering them,by sharing nuggets of knowlege and providing them opportunities to forster their growth gives me immense joy
 
