@@ -20,7 +20,7 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 
 :sparkler: I am an advocate for incorporating women into the field of Cyber Security,owing to remove the gate barriers that they face.This led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter.I try to contribute,to the best of my ability,for the good of this organization
 
-Empowering them,by sharing nuggets of knowlege and providing them opportunities to forster their growth gives me immense joy
+:thought_balloon: Empowering them,by sharing nuggets of knowlege and providing them opportunities to forster their growth gives me immense joy
 
 ![](https://komarev.com/ghpvc/?username=NoelV11)
 
