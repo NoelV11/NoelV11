@@ -2,7 +2,7 @@
 
 My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
-My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https://noelatvitb.gitbook.io/lets-defend-walkthroughs/
+My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https://noelatvitb.gitbook.io/blue-team-investigations/
 
 ### Hi there,I am Noel Varghese 👋
 
