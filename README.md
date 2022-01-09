@@ -9,6 +9,8 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 
 :wink: I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
+:bulb: Now, I am branching my journey towards Blue Teaming, where I will be documenting my journey and cases I solve from LetsDefend and Rangeforce platforms,on my blog hosted on Gitbooks
+
 👨‍💻️ Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
 ## View my project 'Secode':A static code analyzer,that points insecure C language functions in your code and suggests secure alternatives - https://github.com/NoelV11/Secode
