@@ -40,9 +40,9 @@ My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https
 
 - Interned at NTRDC,Crime Free Bharat,under the Threat Intelligence domain
 
-- Interned at Haryana Crime Cell,under the Cyber Security domain
+- Interned at Haryana Police Crime Cell,under the Cyber Security domain
  
-- Core Team Member,R&D (Research and Development) of club at VITB Cyber Warriors Club, VIT Bhopal
+- Core Team Member,R&D (Research and Development) of VITB Cyber Warriors Club at VIT Bhopal
 
 ### 🤔 Get in touch
 
