@@ -58,7 +58,7 @@ I am always open to meeting new people and opportunities
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelV11&count_private=true&theme=great-gatsby&show_icons=true)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Raven04.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/357365"></script>
 
 
 ## View my latest article!
