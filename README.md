@@ -58,43 +58,7 @@ I am always open to meeting new people and opportunities
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelV11&count_private=true&theme=great-gatsby&show_icons=true)
 
+{{< image src="https://tryhackme.com/badge/357365" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 ## View my latest article!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@noelatvitb/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@noelatvitb/0" alt="Recent Article 0"> 
-
- import requests
-import base64
-from bs4 import BeautifulSoup
-
-
-profile_url = "https://tryhackme.com/badge/353765"      # Get this link from your Public Profile -> "Get Profile Badge ID" page
-user_agent = {"User-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"}
-
-response = requests.get(profile_url, headers=user_agent)
-
-
-if (response.status_code == 200):
-    encoded = response.text.replace("document.write(window.atob(\"", "")
-    encoded = encoded.replace("\"))", "")
-else:
-    print ("Request blocked by the TryHackMe CloudFlare interstitial.")
-    exit()
-    
-
-decoded = base64.b64decode(encoded)
-parsed = BeautifulSoup(decoded, 'html.parser')
-
-
-user = parsed.findAll('span',{"class":"thm_nickname"})[0].text                  # <span class="thm_nickname">snkhan</span>          // Username
-level = parsed.findAll('span',{"class":"thm_rank"})[0].text                     # <span class="thm_rank">[0x8][Hacker]</span>       // Level
-rank = int(parsed.findAll('span',{"class":"thm_stat thm_mr"})[0].text)          # <span class="thm_stat thm_mr">9760</span>         // Global Rank
-completedrooms = parsed.findAll('span',{"class":"thm_stat thm_mr"})[1].text     # <span class="thm_stat thm_mr">27</span>           // Rooms Completed
-badges = parsed.findAll('span',{"class":"thm_stat"})[2].text                    # <span class="thm_stat">8</span>                   // Badges
-
-
-thm = {}
-for value in ["user", "level", "rank", "completedrooms", "badges"]:
-    thm[value] = eval(value)
-
-
-print (f'The user {thm["user"]} has a global rank of {thm["rank"]:,} with a title of {thm["level"]}. A total of {thm["completedrooms"]} rooms have been completed, with {thm["badges"]} badges awarded.')
