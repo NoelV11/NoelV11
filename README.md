@@ -1,19 +1,17 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/noel--varghese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://noelatvitb.gitbook.io/blue-team-investigations/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
-<br>
-</br>
-My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
-
-
 ### Hi there,I am Noel Varghese 👋
 
 
 :wink: I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
 :bulb: Now, I am branching my journey towards Blue Teaming, where I will be documenting my journey and cases I solve from LetsDefend and Rangeforce platforms,on my blog hosted on Gitbooks
+
+### 🤝 Connect with me!
+
+<a href="https://www.linkedin.com/in/noel--varghese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://noelatvitb.gitbook.io/blue-team-investigations/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<br>
+</br>
+My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
 👨‍💻️ Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
