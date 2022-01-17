@@ -1,5 +1,7 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
+![linkedin](https://img.shields.io/badge/%20%20%20%20%20-LinkedIn-blue?style=flat&logo=linkedin)
+
 My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
 My Gitbooks page (where I share Let's Defend Investigation Walkthroughs) - https://noelatvitb.gitbook.io/blue-team-investigations/
