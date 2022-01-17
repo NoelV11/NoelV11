@@ -1,7 +1,6 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![linkedin](https://img.shields.io/badge/%20%20%20%20%20-LinkedIn-blue?style=flat&logo=linkedin)
-<a href=”https://www.linkedin.com/in/noel-varghese"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/Images/Li.png" alt=”Noel | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
