@@ -15,7 +15,7 @@
 ## 🌱 I'm currently learning
 
 - Splunk SIEM
-- :windows: Windows Active Directory
+- win+; / win+. Windows Active Directory
 
 ## View my project 'Secode':A static code analyzer,that points insecure C language functions in your code and suggests secure alternatives - https://github.com/NoelV11/Secode
 
