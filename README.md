@@ -11,9 +11,6 @@
 <a href="https://noelatvitb.gitbook.io/blue-team-investigations/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
 </br>
-My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
-
-👨‍💻️ Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
 ## 🌱 I'm currently learning
 
@@ -21,6 +18,8 @@ My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noel
 - Windows Active Directory
 
 ## View my project 'Secode':A static code analyzer,that points insecure C language functions in your code and suggests secure alternatives - https://github.com/NoelV11/Secode
+
+👨‍💻️ Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
 🕵 Contributed to Darkwebathon,hosted by the Anti-Human Trafficking Intelligence Initiative (@TeamATII).During this event,we the help of a 200+ search party scoured the Dark Web,pulled information from tools like Project Hades and Maltego,to identify individuals who operate in gambling,child porn and CSAM rings
 
