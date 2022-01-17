@@ -15,10 +15,14 @@ My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noel
 
 👨‍💻️ Retaining an interest in Secure Coding, I have participated in University level Secure Coding Tournaments, achieving 3'rd rank in OWASP Bangalore Chapter and 38'th rank in Devlymics Champions Tournament, conducted by Secure Code Warriors, Australia
 
+## 🌱 I'm currently learning
+
+- Splunk SIEM
+- Windows Active Directory
+
 ## View my project 'Secode':A static code analyzer,that points insecure C language functions in your code and suggests secure alternatives - https://github.com/NoelV11/Secode
 
 🕵 Contributed to Darkwebathon,hosted by the Anti-Human Trafficking Intelligence Initiative (@TeamATII).During this event,we the help of a 200+ search party scoured the Dark Web,pulled information from tools like Project Hades and Maltego,to identify individuals who operate in gambling,child porn and CSAM rings
-
 
 👱 Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
 
