@@ -34,7 +34,7 @@ My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noel
 
 ### 🔭 My Skills
 
-- Worked with tools used in SOC Analyst environments - like WireShark,Yara, Virus Total and Sandboxes
+- Worked with tools used in SOC Analyst environments - like WireShark,Yara,Impacket,Virus Total and Cuckoo Sandbox
 
 - Threat Intelligence
 
