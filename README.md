@@ -5,7 +5,6 @@
 <a href="https://noelatvitb.gitbook.io/blue-team-investigations/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
 </br>
-
 My Gitbooks page (where I share HTB and Vulnhub box walkthroughs) - https://noelatvitb.gitbook.io/
 
 
