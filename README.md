@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/noel--varghese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://noelatvitb.gitbook.io/lets-defend-and-try-hack-me-room-walkthroughs/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
-<script src="https://tryhackme.com/badge/357365"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Raven04.png" alt="TryHackMe">
 <br>
 </br>
 
