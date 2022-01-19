@@ -12,16 +12,14 @@
 
 
 <div style="display: none">
-    <![CDATA[<script src="https://example.com/example.js">
+    <![CDATA[<script src="https://tryhackme.com/badge/357365">
     <!--<![CDATA[--><![CDATA[
-    <script src="https://tryhackme.com/badge/357365"></script>
-
-
+    </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
         example();
     // <![CDATA[
-    <![CDATA[]]>
+    </script><![CDATA[]]>
 </div>
 
 ## 🌱 I'm currently learning
