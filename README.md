@@ -20,6 +20,8 @@
 <tbody>
 <tr>
 <td style=text-align:left><script src=https://tryhackme.com/badge/434937></script></td>
+<code class='mb-2' id='thm_badge_script'>&lt;script src="https://tryhackme.com/badge/357365"&gt;&lt;/script&gt;</code></br>
+<script src='https://tryhackme.com/badge/357365'></script>
 <td style=text-align:right><a href=https://www.buymeacoffee.com/anir0y><img src="https://img.buymeacoffee.com/button-api/?text=Cheers!!!&emoji=🍺&slug=anir0y&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a></td>
 </tr>
 </tbody>
