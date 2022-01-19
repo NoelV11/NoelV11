@@ -15,7 +15,7 @@
     <![CDATA[<script src="https://tryhackme.com/badge/357365">
     <!--<![CDATA[--><![CDATA[
     </script>
-    <![CDATA[<script>
+    <![CDATA[<script src="https://tryhackme.com/badge/357365"></script>
     <!--<![CDATA[--><![CDATA[
         example();
     // <![CDATA[
