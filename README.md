@@ -11,17 +11,6 @@
 <a href="https://noelatvitb.gitbook.io/lets-defend-and-try-hack-me-room-walkthroughs/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
 
 
-<div style="display: none">
-    <![CDATA[<script src="https://tryhackme.com/badge/357365">
-    <!--<![CDATA[--><![CDATA[
-    </script>
-    <![CDATA[<script src="https://tryhackme.com/badge/357365"></script>
-    <!--<![CDATA[--><![CDATA[
-        example();
-    // <![CDATA[
-    </script><![CDATA[]]>
-</div>
-
 ## 🌱 I'm currently learning
 
 - Splunk SIEM
