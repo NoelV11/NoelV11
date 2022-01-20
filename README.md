@@ -13,6 +13,9 @@
 <br>
 </br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Raven04.png" alt="TryHackMe">
+
+
 ## 🌱 I'm currently learning
 
 - Splunk SIEM
