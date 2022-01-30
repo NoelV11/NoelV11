@@ -3,7 +3,7 @@
 
 :wink: I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
-:bulb: Now, I am branching my journey towards Blue Teaming, where I will be documenting my journey and cases I solve from LetsDefend and Rangeforce platforms,on my blog hosted on Gitbooks
+:bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks
 
 ### 🤝 Connect with me!
 
@@ -28,9 +28,10 @@
 
 👱 Cyber Security interests me as an individual, being the subject I am majoring in. Finding new techniques to enforce security in everyday life, and resisting attack attempts is thrilling and requires a whole lot of collective efforts from security professionals and general citizens, to make the world a much secure place. I would very much want to be a part of it
 
-:sparkler: I am an advocate for incorporating women into the field of Cyber Security,owing to remove the gate barriers that they face.This led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter.I try to contribute,to the best of my ability,for the good of this organization
+:sparkler:Being an advocate for incorporating women into the field of Cyber Security, I persevere to remove the gate barriers that they face. This led me to be a member of my University's Women in Cyber Security (WiCYS) Chapter. I try to contribute, to the best of my ability, for this organization
 
-:thought_balloon: Empowering them,by sharing nuggets of knowlege and providing them opportunities to forster their growth gives me immense joy
+
+:thought_balloon: Empowering them, by sharing nuggets of knowledge and providing opportunities to foster their learning and growth, gives me immense joy
 
 ![](https://komarev.com/ghpvc/?username=NoelV11)
 
