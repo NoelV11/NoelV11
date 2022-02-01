@@ -1,6 +1,5 @@
 ### Hi there,I am Noel Varghese 👋
 
-
 :wink: I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
 :bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks
@@ -9,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/noel--varghese/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://noelatvitb.gitbook.io/lets-defend-and-try-hack-me-room-walkthroughs/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/GB.png" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://www.linkedin.com/in/noel--varghese/"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/TW.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/sec_noel"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/TW.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <a href="https://tryhackme.com/p/Raven04"><img align="left" src="https://github.com/NoelV11/NoelV11/blob/main/Images/THM.png" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
