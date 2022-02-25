@@ -6,7 +6,7 @@
 
 📝 Certification held:-
 
-Security+
+- Security+
 
 ### 🤝 Connect with me!
 
