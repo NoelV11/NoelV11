@@ -5,6 +5,7 @@
 :bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks.
 
 📝 Certification held:-
+
 Security+
 
 ### 🤝 Connect with me!
