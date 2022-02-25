@@ -2,7 +2,10 @@
 
 :wink: I am an undergraduate student pursuing Btech in CSE specialization in Cyber Security, at Vellore Institute of Technology, Bhopal. I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
-:bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks
+:bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks.
+
+📝 Certification held:-
+Security+
 
 ### 🤝 Connect with me!
 
