@@ -44,9 +44,9 @@
 
 - Worked with tools used in SOC Analyst environments - like WireShark,Yara,Impacket,Virus Total and Cuckoo Sandbox
 
-- Threat Intelligence - Expeirenced with tools like Maltego,iplogger,VirusTotal and Project Hades
+- Threat Intelligence - Expeirenced with tools like AlienVaultX, Microsoft Threat Modelling tool, Project Hades and VirusTotal 
 
-- OSINT
+- OSINT - Worked with tools like Maltego and Hunchly.io
 
 - Blogging and Content Writing
 
