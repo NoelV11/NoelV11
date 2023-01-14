@@ -60,9 +60,7 @@
 
 ### 🤔 Get in touch
 
-I am always open to meeting new people and opportunities
-
-💬 Email- noelatvitb@gmail.com
+I am always open to meeting new people and opportunities.
 
 👯 Thank you for viewing my GitHub Profile!
 
