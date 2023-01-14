@@ -58,9 +58,11 @@
  
 - Core Team Member,R&D (Research and Development) of VITB Cyber Warriors Club at VIT Bhopal
 
-### 🤔 Get in touch
+### ✅ Get in touch
 
 I am always open to meeting new people and opportunities.
+
+Let's connect on LinkedIn - https://www.linkedin.com/in/noel--varghese
 
 👯 Thank you for viewing my GitHub Profile!
 
