@@ -1,9 +1,9 @@
 ### Hi there,I am Noel Varghese 👋
 
-:wink: I am a graduate of Vellore Institute of Technology, Bhopal, having pursued my undergraduate in 
+:wink: I am a graduate of Vellore Institute of Technology, Bhopal, having pursued my undergraduate degree in 
 Computer Science Engineering, with specialization in Cyber Security.
 
-I am an a Cybersecurity enthusiast - having  having experience working in Secure Coding,OSINT,Pentesting & Threat Intelligence fields
+I am a Cybersecurity enthusiast - having relevant experience working and participating in events related to Secure Coding,OSINT,Pentesting & Threat Intelligence fields
 
 :bulb: Being a student in Cybersecurity, I am branching my journey towards Blue Teaming and Threat Intelligence, where I will be documenting my journey, along with cases that I solve from LetsDefend and Rangeforce platforms, on my blog hosted on Gitbooks.
 
